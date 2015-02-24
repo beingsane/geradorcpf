@@ -33,6 +33,7 @@
 		<p>
 			GERADOR CPF VÁLIDOS PARA TESTES
 		</p>
+		<br>
 		<div class="row jumbotron">
 			<div class="col-md-3">
 			</div>	
@@ -52,14 +53,15 @@
 			<div class="col-md-3">
 			</div>
 		</div>
-		<p>
+		<p style="text-align:center;">
 			<span class="label label-danger">ATENÇÃO!</span> 
-			Este <b>gerador de CPF</b> tem objetivo de gerar um número válido pares testes deo softwares por exemplo.
 			<br>
-			É uma ferramenta para Analistas de Sistema, Programadores, estudantes, arquitetos e testadores de sistemas 
+			Este <b>gerador de CPF</b> tem objetivo de gerar um número válido pares testes de softwares.
+			<br>
+			É uma ferramenta para Análistas de Sistema, Programadores, Estudantes, Entusiastas e Testadores de sistemas 
 			e qualquer que pressoa que precise de um número de CPF ficcticio para testar um cadastro de algum sistema.
-			Muitos desenvolvedores de sistema precisão disto em suas fases de testes.
-			<BR><b>USO INDEVIDO DISTO PARA FINS CRIMINOSOS OU INDEVIDOS É REPUDIÁVEL, É CRIME E NÓS NÃO NOS RESPONSABILIZAMOS POR ESTES ATOS DE TERCEIROS.</b>
+			Muitos desenvolvedores de sistema precisão dessa ferramenta em suas fases de testes.
+			<BR><b>USO INDEVIDO PARA FINS CRIMINOSOS OU INDEVIDOS É REPUDIÁVEL, É CRIME E NÓS NÃO NOS RESPONSABILIZAMOS POR ESTES ATOS DE TERCEIROS.</b>
 		</p>
 		<script>
 		function randomiza(n) {
@@ -95,9 +97,7 @@
 			document.getElementById('gencpf').value = (cpf);
 		}
 		gerarCPF();
-		</script>
 		
-		<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -106,6 +106,5 @@
 		ga('create', 'UA-60054465-1', 'auto');
 		ga('send', 'pageview');
 		</script>
-	
   </body>
 </html>
