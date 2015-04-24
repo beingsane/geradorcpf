@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>GERADOR CPF ONLINE</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>GERADOR CPF ONLINE</title>
+    
+	<meta property="og:title" content="Gerador CPF">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://sururulab-com-br.herokuapp.com/">
+	<meta property="og:image" content="https://sururulab-com-br.herokuapp.com/">
+	<meta property="og:site_name" content="Gerador CPF">
+	<meta property="fb:admins" content="sururu lab">
+	<meta property="og:description" content="Gerador de CPF vÃ¡lidos para testes de software.">
+	
+	
+	<fb:like href="http://developers.facebook.com/" width="450" height="80">
+	
+	
+	<!-- Open Graph Meta Tags by: www.MetaTagGenerator.org -->
+	
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
